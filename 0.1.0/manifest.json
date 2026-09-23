@@ -1,0 +1,10 @@
+{
+  "polymod": {
+    "name": "Quasoint",
+    "id": "quasoint",
+    "author": "Zharfan",
+    "targets": ["0.6.3"],
+    "main": "main.mod.js"
+  },
+  "dependencies": []
+}
