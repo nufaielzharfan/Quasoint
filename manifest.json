@@ -1,9 +1,0 @@
-{
-  "id": "quasoint",
-  "name": "Quasoint",
-  "version": "0.1.0",
-  "author": "Zharfan",
-  "gameVersion": "0.6.3",
-  "entry": "mod.js",
-  "description": "Shows a visual trail of the car's path while testing in the editor."
-}
